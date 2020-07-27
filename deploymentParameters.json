@@ -6,15 +6,15 @@
             "value": "-dev-"
         },
         "keyVaultName": {
-          "value": "tailspin-vault-3075"
+          "value": "tailspin-vault-3076"
         },
         "uniqueSuffix": {
-            "value": "3075"
+            "value": "3076"
         },
         "adminPassword": {
             "reference": {
               "keyVault": {
-                "id": "https://tailspin-vault-3075.vault.azure.net/secrets/adminPassword/6fa14daff84e4791957740ad01c8dc28"
+                "id": "https://tailspin-vault-3076.vault.azure.net/secrets/adminPassword/bcd3bde5178b4d77906183f6405bb4ba"
               },
               "secretName": "adminPassword"
             }
@@ -22,7 +22,7 @@
         "firstRun": {
             "reference": {
                 "keyVault": {
-                    "id": "https://tailspin-vault-3075.vault.azure.net/secrets/firstRun/2812767cdb594dce84e04e943ae1862a"
+                    "id": "https://tailspin-vault-3076.vault.azure.net/secrets/firstRun/18630baedbc74b0fb1ed25432d859f08"
                 },
                 "secretName": "firstRun"
             }
